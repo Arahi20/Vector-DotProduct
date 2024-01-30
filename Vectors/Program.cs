@@ -33,6 +33,20 @@ internal class Program
         return result;
     }
 
+    static double Length_of_Vector(Double[] vector)
+    {
+
+        //Using the Length formula
+        double sumOfSquares = 0;
+        foreach (var component in vector)
+        {
+            sumOfSquares += component * component;
+        }
+
+        return Math.Sqrt(sumOfSquares);
+        
+    }
+
 
 
 
@@ -53,6 +67,19 @@ internal class Program
         {
             double dotproduct= DotProduct(VectorA,VectorB);
             Console.WriteLine("The dot product of the two vectors is: " + dotproduct);
+
+            //Adding on angle calculations
+            double LenA = Length_of_Vector(VectorA);
+            double LenB =Length_of_Vector(VectorB);
+
+            //Using the formula 
+            double cosTheta = dotproduct/(LenA*LenB);
+            
+            double radians = Math.Acos(cosTheta);
+            double degrees = radians * (180/Math.PI);
+            Console.WriteLine("The angle between the two vectors is: " + degrees + " degrees");
+
+
         }
         Console.ReadLine();
 

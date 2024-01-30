@@ -12,3 +12,4 @@
 /Users/ahmedrahi/University of Leeds/Vectors/Vectors/obj/Debug/net8.0/Vectors.pdb
 /Users/ahmedrahi/University of Leeds/Vectors/Vectors/obj/Debug/net8.0/Vectors.genruntimeconfig.cache
 /Users/ahmedrahi/University of Leeds/Vectors/Vectors/obj/Debug/net8.0/ref/Vectors.dll
+/Users/ahmedrahi/University of Leeds/Vectors/Vectors/obj/Debug/net8.0/Vectors.sourcelink.json
