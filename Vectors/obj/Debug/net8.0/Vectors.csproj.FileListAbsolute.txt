@@ -1,0 +1,14 @@
+/Users/ahmedrahi/University of Leeds/Vectors/Vectors/bin/Debug/net8.0/Vectors
+/Users/ahmedrahi/University of Leeds/Vectors/Vectors/bin/Debug/net8.0/Vectors.deps.json
+/Users/ahmedrahi/University of Leeds/Vectors/Vectors/bin/Debug/net8.0/Vectors.runtimeconfig.json
+/Users/ahmedrahi/University of Leeds/Vectors/Vectors/bin/Debug/net8.0/Vectors.dll
+/Users/ahmedrahi/University of Leeds/Vectors/Vectors/bin/Debug/net8.0/Vectors.pdb
+/Users/ahmedrahi/University of Leeds/Vectors/Vectors/obj/Debug/net8.0/Vectors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmedrahi/University of Leeds/Vectors/Vectors/obj/Debug/net8.0/Vectors.AssemblyInfoInputs.cache
+/Users/ahmedrahi/University of Leeds/Vectors/Vectors/obj/Debug/net8.0/Vectors.AssemblyInfo.cs
+/Users/ahmedrahi/University of Leeds/Vectors/Vectors/obj/Debug/net8.0/Vectors.csproj.CoreCompileInputs.cache
+/Users/ahmedrahi/University of Leeds/Vectors/Vectors/obj/Debug/net8.0/Vectors.dll
+/Users/ahmedrahi/University of Leeds/Vectors/Vectors/obj/Debug/net8.0/refint/Vectors.dll
+/Users/ahmedrahi/University of Leeds/Vectors/Vectors/obj/Debug/net8.0/Vectors.pdb
+/Users/ahmedrahi/University of Leeds/Vectors/Vectors/obj/Debug/net8.0/Vectors.genruntimeconfig.cache
+/Users/ahmedrahi/University of Leeds/Vectors/Vectors/obj/Debug/net8.0/ref/Vectors.dll
