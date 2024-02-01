@@ -4,6 +4,7 @@ internal class Program
 {
     static double[]ReadVector()
     {
+        //This method is responsable for taking the userinput which is a string than converting it into a vector which we classify as a 'Double' array.
         string Userinp = Console.ReadLine();
         string[]Components = Userinp.Split(',');
         double[]vector =new double[Components.Length];
@@ -24,6 +25,9 @@ internal class Program
     }
        static double DotProduct(double[] a, double[] b)
     {
+        //Calculates the Dot product by timings the first vector with the second and adding that to result
+
+
         double result = 0;
         for (int i = 0; i < a.Length; i++)
         {
@@ -35,6 +39,7 @@ internal class Program
 
     static double Length_of_Vector(Double[] vector)
     {
+
 
         //Using the Length formula
         double sumOfSquares = 0;
