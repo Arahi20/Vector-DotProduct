@@ -1,1 +1,2 @@
-A tool to quickly calculate the dot product between 2 vectors aswell as working out the angle between them
+<h1> Vector-DotProduct </h1>
+A tool to quickly calculate the dot product and angle between 2 vectors
